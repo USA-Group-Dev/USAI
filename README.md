@@ -1,4 +1,7 @@
 <p align="center">
+Maga Agent
+![MAGA Agent](images/maga-agent-img-1-9.jpg)
+
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="img/rig-playgrounds-dark.svg">
